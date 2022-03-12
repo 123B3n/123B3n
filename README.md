@@ -29,7 +29,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />][github]
-[<img align="left" alt="C#" width="26px" src="https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png" />][github]
+[<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />][github]
 [<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][github]
 [<img align="left" alt="PHP" width="26px" src="https://pbs.twimg.com/profile_images/554530862453104641/xq5KwTA1.png" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
