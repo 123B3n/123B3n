@@ -1,6 +1,7 @@
 ### Hi there, I'm Staffan - aka [123B3n][website] 👋
 
 [![Website](https://img.shields.io/website?label=manifestrp.eu&style=for-the-badge&url=https%3A%2F%2Fmanifestrp.eu)](https://manifestrp.eu)
+[![Website](https://img.shields.io/website?label=manifestrp.eu&style=for-the-badge&url=https%3A%2F%2Fmanifest-networks.eu)](https://manifest-networks.eu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/123B3n?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F123B3n&screen_name=123B3n)
 
 ## I'm a Trucker, Friend and a Developer!!
@@ -13,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ManifestRP.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="manifest-networks.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
 [<img align="left" alt="123B3n | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="123B3n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="123B3n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -38,6 +39,7 @@
 
 [github]: https://github.com/123B3n
 [website]: https://manifestrp.eu
+[website2]: https://manifest-networks.eu
 [twitter]: https://twitter.com/123B3n
 [youtube]: https://www.youtube.com/channel/UCYAMUfMRSfB7ZzhvtWXQqpg
 [instagram]: https://instagram.com/staffanlowgren
