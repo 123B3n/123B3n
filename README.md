@@ -1,7 +1,7 @@
 ### Hi there, I'm Staffan - aka [123B3n][website] 👋
 
 [![Website](https://img.shields.io/website?label=manifestrp.eu&style=for-the-badge&url=https%3A%2F%2Fmanifestrp.eu)](https://manifestrp.eu)
-[![Website](https://img.shields.io/website?label=manifestrp.eu&style=for-the-badge&url=https%3A%2F%2Fmanifest-networks.eu)](https://manifest-networks.eu)
+[![Website](https://img.shields.io/website?label=manifest-networks.eu&style=for-the-badge&url=https%3A%2F%2Fmanifest-networks.eu)](https://manifest-networks.eu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/123B3n?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F123B3n&screen_name=123B3n)
 
 ## I'm a Trucker, Friend and a Developer!!
