@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-playing-alpha.vercel.app/api/spotify-playing" alt="123B3n Spotify Playing" width="350" />](https://open.spotify.com/user/mahmodalrawi)
+[<img src="https://spotify-playing-alpha.vercel.app/api/spotify-playing" alt="123B3n Spotify Playing" width="450" />](https://open.spotify.com/user/mahmodalrawi)
 
 ### Connect with me:
 
