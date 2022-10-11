@@ -12,6 +12,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm completely self learned developer
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-playing-alpha.vercel.app/api/spotify-playing" alt="123B3n Spotify Playing" width="350" />](https://open.spotify.com/user/mahmodalrawi)
+
 ### Connect with me:
 
 [<img align="left" alt="manifest-networks.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
