@@ -1,6 +1,6 @@
 ### Hi there, I'm Staffan - aka [123B3n][github] 👋
 
-[![Website](https://img.shields.io/website?label=manifest-networks.eu&style=for-the-badge&url=https%3A%2F%2Fmanifest-networks.eu)](https://manifest-networks.eu)
+[![Website](https://img.shields.io/website?label=everest-community.net&style=for-the-badge&url=https%3A%2F%2Feverest-community.net)](https://everest-community.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/123B3n?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F123B3n&screen_name=123B3n)
 
 ## I'm a Trucker, Friend and a Developer!!
@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="manifest-networks.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
+[<img align="left" alt="everest-community.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="123B3n | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="123B3n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="123B3n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -50,8 +50,7 @@
 <img align="left" alt="123B3n's GitHub Stats" src="https://github-readme-stats-nu-six-52.vercel.app/api/top-langs/?username=123B3n&layout=compact&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [github]: https://github.com/123B3n
-[website]: https://manifestrp.eu
-[website2]: https://manifest-networks.eu
+[website]: https://everest-community.net
 [twitter]: https://twitter.com/123B3n
 [youtube]: https://www.youtube.com/channel/UCYAMUfMRSfB7ZzhvtWXQqpg
 [instagram]: https://instagram.com/staffanlowgren
