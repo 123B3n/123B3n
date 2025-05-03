@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "updatedAt": "2025-05-04",
+        "apiVersion": "v1.0.0",
+        "status": "active"
+    },
+    "requests": {
+        "radio-link-socket": {
+            "latestVersion": "1.0.0",
+            "fileName": "radio-link-socket.json",
+            "releaseDate": "2025-05-04",
+            "description": "Radio Link Socket Server"
+        }
+    },
+    "authorization": {
+        "required": true,
+        "type": "API-Key",
+        "header": "X-API-Key",
+        "expires": 86400
+    },
+    "rate_limits": {
+        "daily": 5000,
+        "hourly": 500,
+        "burst": 20
+    },
+    "documentation": {
+        "swagger": "https://api.everest-community.net/swagger",
+        "postman": "https://api.everest-community.net/postman.json"
+    },
+    "legacy_endpoints": [
+        "/v1/applications",
+        "/v1/configurations",
+        "/v1/metrics"
+    ],
+    "support": {
+        "email": "contact@everest-community.net",
+        "hours": "Mon-Fri 9AM-5PM EST",
+        "sla": "24 hours for licensed customers"
+    },
+    "compliance": {
+        "gdpr": true,
+        "hipaa": false,
+        "iso27001": "pending"
+    },
+    "_checksum": "58a3d2c716f9f42c834952fc02412e86",
+    "internal_use_only": true
+}
