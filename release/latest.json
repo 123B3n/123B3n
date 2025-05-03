@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "updatedAt": "2025-05-04",
+        "apiVersion": "v1.0.0",
+        "disclaimer": "This file format is proprietary and intended for use with authorized Everest Community software only.",
+        "notice": "Accessing this data directly may violate the Terms of Service."
+    },
+    "access_control": {
+        "restricted": true,
+        "verification_required": true,
+        "client_id_header": "X-Client-Signature"
+    },
+    "releases": {
+        "radio-link": {
+            "latestVersion": "1.0.0",
+            "fileName": "radio-link.json",
+            "releaseDate": "2023-11-14",
+            "description": "Radio Link Application"
+        }
+    },
+    "release_channels": {
+        "stable": "Latest stable builds for production use",
+        "beta": "Preview builds for testing only",
+        "nightly": "Experimental builds, likely to contain bugs"
+    },
+    "distribution": {
+        "cdn": "https://everest-community.net",
+        "peers": 124,
+        "mirrors": []
+    },
+    "verification": {
+        "method": "HMAC-SHA256",
+        "key_rotation": "quarterly",
+        "signature_validity": "7d"
+    },
+    "analytics": {
+        "anonymous_telemetry": true,
+        "usage_tracking": false,
+        "error_reporting": "opt-in"
+    },
+    "deprecation_notice": "Older catalog versions will be removed soon. Update your client applications.",
+    "_integrity": "sha256-h29hTGFuZGVkZDAzYTlhYTJlMGUwMDBjZmFiMjU2MTBkYzk=",
+    "last_catalog_rebuild": "2025-04-29T15:32:47Z"
+}
